@@ -33,26 +33,25 @@ location and any personal details or requests are lost in the handoff.
 - [X] A sleeve with *two* keys is provided
 - [X] Check the head light fit
 - [ ] Inspect the paint around intake vents on the front bumper
- - [ ] ERROR: Driver side of Front Bumper Vent has a white smudge
+## - [ ] ERROR: Driver side of Front Bumper Vent has a white smudge
 - [ ] Inspect the frunk, look for paint defects, dents and signs of improper closing by the sides of the T logo
- - [ ] ERROR: Driver Side Quarter Panel has 'Red' showing from under the black paint
+## - [ ] ERROR: Driver Side Quarter Panel has 'Red' showing from under the black paint
 - [X] Make sure the hood sits flush with the quarter panels and frunk
 - [X] Inspect that the windshield isn't installed shifted (the gaps between the glass and A pillar on either side
 should be approximately equal). An improperly installed windshield causes significant wind noise at highway speeds.
 - [ ] Check for uneven/wide panel gaps and that panels are flush to car
- - [ ] ERROR: Driver side rear bumper to rear quarter panel potenttially rubbing paint (Already showing white)
+## - [ ] ERROR: Driver side rear bumper to rear quarter panel potenttially rubbing paint (Already showing white)
 - [X] Check that the trim along the bottom of the sides of the vehicle are flush with the bottom of the doors
 - [X] Check for trim stains
- - [ ]  ERROR: Rear Passenger Seat exterior Trim Scratches
 - [X] Check all 4 door levers
 - [ ] Check all wheels, ensure they are not scratched
 - [ ] Check all wheels, ensure there is nothing lodged in the tread (screws, nails, debris, etc.)
 - [X] Confirm all 4 hubcaps are present and properly attached
 - [X] Check for dings on pillars
 - [ ] Inspect the paint on the outside and the door jams, ensure panel corners do not have chips
- - [ ] ERROR: Front Passenger Door white on lower door corner
+## - [ ] ERROR: Front Passenger Door white on lower door corner
 - [ ] Check for damage to black rocker panels
- - [ ]  ERROR: Deep scratches on Rear Passneger Side Rocker Panel
+## - [ ]  ERROR: Deep scratches on Rear Passneger Side Rocker Panel
 - [X] Check the tail light fit
 > * __Photo:__ [tail light (passenger side) not flush with panel](https://imgur.com/aPzCKKG)
 > * __Fix:__ not yet available
@@ -66,7 +65,7 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 (there are no empty holes) and all metal pins (2 in each front wheel well, 4 in each rear wheel well) are present and properly attached.
 > * __Photo:__ [threaded pins with and without plastic nuts](https://imgur.com/6KqcVg4)
 > * __Fix:__ mobile service can fix it in minutes
- - [ ]  ERROR: Missing plastic nut on Front Passenger Wheel well by suspension strut
+## - [ ]  ERROR: Missing plastic nut on Front Passenger Wheel well by suspension strut
 
 ### Unlocked
 
@@ -86,8 +85,8 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 - [X] Inspect the center console scratches, dings, etc.
 - [X] Inspect the dash for scratches
 - [X] Verify that wireless charging works on both sides
-- [ ] Confirm wired charging works (1 x USB-A in front, 3 x USB-C, front and back)
-- [ ] Open and close the glovebox
+- [X] Confirm wired charging works (1 x USB-A in front, 3 x USB-C, front and back)
+- [X] Open and close the glovebox
 - [X] Open and close windows using one click open close and manually open and close (make sure there are no noises and they stay up when you close, and when they
 go down they do all the way down for front two windows. The rear two windows don't go down all the way.
 - [X] Verify backup camera
@@ -110,7 +109,7 @@ are no unexpected clicks, etc.
  - [ ] Error: Middle seat not flush
 - [ ] Confirm that back seats recline adjustment works correctly
 - [X] Inspect the floor mats for rips, stains, etc.
-- [ ] Inspect the metal accelerator and brake pedal arms; there have been
+- [X] Inspect the metal accelerator and brake pedal arms; there have been
 [reports](https://www.reddit.com/r/TeslaModelY/comments/gyhim1/is_this_normal_my_brake_pedal_arm_has_a_welded/) of
 different finish on pedals (matte on accelerator, glossy on brake) and a conspicuous weld in the middle of the brake pedal
 - [X] Turn on climate control, force the heat pump to kick in by taking the temperature to either end of the scale and listen for loud noises
